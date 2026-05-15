@@ -1,0 +1,30 @@
+export const appTheme = {
+  colors: {
+    background: "#121212",
+    surface: "#232323",
+    surfaceMuted: "#1A1A1A",
+    surfaceAccent: "#26262D",
+    border: "#343434",
+    text: "#F5F5F2",
+    textMuted: "#8A8A88",
+    primary: "#C4B5FD",
+    primarySoft: "#312A3E",
+    success: "#6EE7B7",
+    warning: "#FBBF24",
+    danger: "#F87171",
+    accent: "#A78BFA",
+  },
+  spacing: {
+    xs: 6,
+    sm: 10,
+    md: 16,
+    lg: 20,
+    xl: 28,
+  },
+  radius: {
+    sm: 10,
+    md: 16,
+    lg: 22,
+    pill: 999,
+  },
+};
